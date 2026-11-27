@@ -1,2 +1,2 @@
 # .github
-ClevaVox organisation profile and shared community resources.
+Turaco research organisation profile and shared community resources.
